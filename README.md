@@ -8,6 +8,14 @@ Designed for accessibility. Built for Blender. Works with any app.
 
 ---
 
+## Screenshots
+
+![Clavor floating over Blender](img/Clavor.PNG)
+
+![Clavor settings panel](img/setings.PNG)
+
+---
+
 ## Features
 
 - 🔒 **Sticky keys** — click to hold, click again to release
