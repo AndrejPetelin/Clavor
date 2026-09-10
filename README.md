@@ -31,7 +31,6 @@ Designed for accessibility. Built for Blender. Works with any app.
 
 ## Download
 
-**[⬇ Download Clavor.exe](https://gumroad.com/l/clavor)** ← pre-built for Windows
 
 No install needed. Drop the `.exe` anywhere and run it.  
 Settings are saved as `clavor.json` next to the executable.
